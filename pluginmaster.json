@@ -39,5 +39,19 @@
     "DalamudApiLevel": "15",
     "DownloadLinkInstall": "https://github.com/youdianfengbao/ffxiv_satisfy/releases/download/0.0.0.37-cn/latest.zip",
     "DownloadLinkUpdate": "https://github.com/youdianfengbao/ffxiv_satisfy/releases/download/0.0.0.37-cn/latest.zip"
+  },
+  {
+    "Author": "youdianfengbao (基于 electr0sheep/ItemVendorLocation)",
+    "Name": "Item Vendor Location (国服汉化)",
+    "InternalName": "ItemVendorLocation",
+    "Punchline": "显示商人出售物品的位置",
+    "Description": "在物品上添加右键菜单选项，显示哪些商人在哪里出售该物品。国服中文汉化版。",
+    "RepoUrl": "https://github.com/youdianfengbao/ItemVendorLocation",
+    "AssemblyVersion": "2.14.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "IconUrl": "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/icon.png",
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/ItemVendorLocation/releases/download/2.14.0.1-cn/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/ItemVendorLocation/releases/download/2.14.0.1-cn/latest.zip"
   }
 ]
