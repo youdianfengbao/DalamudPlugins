@@ -43,7 +43,7 @@
   {
     "Author": "youdianfengbao (基于 electr0sheep/ItemVendorLocation)",
     "Name": "Item Vendor Location (国服汉化)",
-    "InternalName": "ItemVendorLocation",
+    "InternalName": "ItemVendorLocationCN",
     "Punchline": "显示商人出售物品的位置",
     "Description": "在物品上添加右键菜单选项，显示哪些商人在哪里出售该物品。国服中文汉化版。",
     "RepoUrl": "https://github.com/youdianfengbao/ItemVendorLocation",
