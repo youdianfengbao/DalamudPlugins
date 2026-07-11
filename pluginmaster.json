@@ -61,7 +61,7 @@
     "Punchline": "在时尚品鉴界面显示装备推荐列表",
     "Description": "时尚品鉴辅助插件，根据提示词显示可用的装备推荐。国服中文汉化版。",
     "RepoUrl": "https://github.com/youdianfengbao/AvantGarde",
-    "AssemblyVersion": "1.0.6",
+    "AssemblyVersion": "1.0.6.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "DownloadLinkInstall": "https://github.com/youdianfengbao/AvantGarde/releases/download/1.0.6-cn/latest.zip",
