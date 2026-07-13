@@ -20,12 +20,12 @@
     "Punchline": "躺在被窝里自动收雇员、管潜艇——国服汉化版",
     "Description": "自动收取雇员探险成果并重新派遣，支持多角色轮换、潜水艇/飞空艇管理、物品清理等。国服中文汉化版。\n汉化来源：Ookura-Risona/AutoRetainer",
     "RepoUrl": "https://github.com/youdianfengbao/AutoRetainer",
-    "AssemblyVersion": "4.6.1.5",
+    "AssemblyVersion": "4.6.1.10",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-    "DownloadLinkInstall": "https://github.com/youdianfengbao/AutoRetainer/releases/download/4.6.1.5-cn/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/youdianfengbao/AutoRetainer/releases/download/4.6.1.5-cn/latest.zip"
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/AutoRetainer/releases/download/4.6.1.10-cn/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/AutoRetainer/releases/download/4.6.1.10-cn/latest.zip"
   },
   {
     "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
