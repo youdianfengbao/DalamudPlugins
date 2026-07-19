@@ -66,5 +66,18 @@
     "DalamudApiLevel": "15",
     "DownloadLinkInstall": "https://github.com/youdianfengbao/AvantGarde/releases/download/1.0.6-cn/latest.zip",
     "DownloadLinkUpdate": "https://github.com/youdianfengbao/AvantGarde/releases/download/1.0.6-cn/latest.zip"
+  },
+  {
+    "Author": "youdianfengbao",
+    "Name": "MonsterScanner",
+    "InternalName": "MonsterScanner",
+    "Punchline": "多怪物同时扫描与导航",
+    "Description": "扫描指定名称的怪物（支持同时监控多个），实时显示距离并按远近排序，提供 vnavmesh 导航按钮。",
+    "RepoUrl": "https://github.com/youdianfengbao/MonsterScanner",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/MonsterScanner/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/MonsterScanner/releases/download/0.0.0.3/latest.zip"
   }
 ]
