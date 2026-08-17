@@ -87,11 +87,11 @@
     "Punchline": "国服副本与新月岛战斗机制提示",
     "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
     "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-    "AssemblyVersion": "7.5.5.42",
+    "AssemblyVersion": "7.5.5.43",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-    "DownloadLinkInstall": "https://github.com/youdianfengbao/BossmodRebornCN/releases/download/7.5.5.42/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/youdianfengbao/BossmodRebornCN/releases/download/7.5.5.42/latest.zip"
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/BossmodRebornCN/releases/download/7.5.5.43/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/BossmodRebornCN/releases/download/7.5.5.43/latest.zip"
   }
 ]
