@@ -93,5 +93,19 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "DownloadLinkInstall": "https://github.com/youdianfengbao/BossmodRebornCN/releases/download/7.5.5.44/latest.zip",
     "DownloadLinkUpdate": "https://github.com/youdianfengbao/BossmodRebornCN/releases/download/7.5.5.44/latest.zip"
+  },
+  {
+    "Author": "youdianfengbao",
+    "Name": "Yes Already (国服汉化)",
+    "InternalName": "YesAlready",
+    "Punchline": "在您指定的各种对话中点击 \"是\"。",
+    "Description": "存储并自动点击您指定的 Yes/No 对话框（及其他对话框）。支持为每个 YesNo 条目设置点击延迟（毫秒）。输入 /pyes 打开设置界面。",
+    "RepoUrl": "https://github.com/youdianfengbao/YesAlready",
+    "AssemblyVersion": "1.15.3.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "IconUrl": "https://github.com/youdianfengbao/YesAlready/raw/master/Assets/yesalready_icon.png",
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/YesAlready/releases/download/1.15.3.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/YesAlready/releases/download/1.15.3.1/latest.zip"
   }
 ]
