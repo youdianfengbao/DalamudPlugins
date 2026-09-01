@@ -34,11 +34,11 @@
     "Punchline": "自动老主顾交付（制作/采集）",
     "Description": "通过自动化流程减少老主顾交付的烦恼。国服中文汉化版。\n所需插件：vnavmesh, Artisan, Questionable",
     "RepoUrl": "https://github.com/youdianfengbao/ffxiv_satisfy",
-    "AssemblyVersion": "0.0.0.42",
+    "AssemblyVersion": "0.0.0.43",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "DownloadLinkInstall": "https://github.com/youdianfengbao/ffxiv_satisfy/releases/download/0.0.0.42-cn/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/youdianfengbao/ffxiv_satisfy/releases/download/0.0.0.42-cn/latest.zip"
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/ffxiv_satisfy/releases/download/0.0.0.43-cn/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/ffxiv_satisfy/releases/download/0.0.0.43-cn/latest.zip"
   },
   {
     "Author": "youdianfengbao (基于 electr0sheep/ItemVendorLocation)",
