@@ -108,5 +108,18 @@
     "IconUrl": "https://github.com/youdianfengbao/YesAlready/raw/master/Assets/yesalready_icon.png",
     "DownloadLinkInstall": "https://github.com/youdianfengbao/YesAlready/releases/download/1.15.3.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/youdianfengbao/YesAlready/releases/download/1.15.3.1/latest.zip"
+  },
+  {
+    "Author": "youdianfengbao (基于 Herculezz, erdelf)",
+    "Name": "AutoDuty (国服汉化)",
+    "InternalName": "AutoDuty",
+    "Punchline": "自动跑副本（亲信/剧情辅助/分队/异闻/常规）",
+    "Description": "自动运行副本循环：支持亲信战友、剧情辅助、冒险者分队、异闻与常规副本，可自动开宝箱、修理、上缴、循环间整理等。\n所需插件：BossMod, vnavmesh, 输出循环插件（Wrath Combo / BossMod AutoRotation / Rotation Solver Reborn）。\n国服中文汉化版。",
+    "RepoUrl": "https://github.com/youdianfengbao/AutoDuty",
+    "AssemblyVersion": "0.0.0.339",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/AutoDuty/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/AutoDuty/releases/latest/download/latest.zip"
   }
 ]
