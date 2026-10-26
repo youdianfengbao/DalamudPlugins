@@ -121,5 +121,19 @@
     "DalamudApiLevel": "15",
     "DownloadLinkInstall": "https://github.com/youdianfengbao/AutoDuty/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/youdianfengbao/AutoDuty/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "youdianfengbao (基于 Critical-Impact/InventoryTools)",
+    "Name": "Allagan Tools (国服汉化)",
+    "InternalName": "InventoryTools",
+    "Punchline": "让 FFXIV 更有条理：轻松定位并展示物品的整理去向，规划制作，还可搜索怪物、副本、飞艇与潜艇！",
+    "Description": "亚拉戈工具（Allagan Tools）的主要用途是追踪你的角色、雇员和部队金库中的物品。借助它的筛选器系统，你永远不会弄丢物品，也不会不知道物品该放在哪里。\n\n除了这一主要用途外，它还拥有丰富的其他功能，包括：\n\t- 制作规划\n\t- 市场板集成\n\t- 搜索、排序或挑选制作材料时在库存中高亮物品\n\t- 物品窗口，包含商人、获取途径等信息\n\t- 可全文搜索的副本/怪物/飞艇/潜艇窗口\n\t- 筛选器系统，可为特定物品设置复杂的搜索条件\n\t- 提示集成，悬停即可查看物品的存放位置",
+    "RepoUrl": "https://github.com/youdianfengbao/InventoryTools",
+    "AssemblyVersion": "15.0.13.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
+    "DownloadLinkInstall": "https://github.com/youdianfengbao/InventoryTools/releases/download/15.0.13.1-cn/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/youdianfengbao/InventoryTools/releases/download/15.0.13.1-cn/latest.zip"
   }
 ]
